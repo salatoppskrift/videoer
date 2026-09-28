@@ -5,7 +5,7 @@
 |  :---  | :------: | ----: | :----: | ------------: | :------------: |
 | ORIG   | .MKV-fil |  162  |   MB   | 1867 sekunder | 31:07 minutter |
 | 34.5F  | .MP4-fil |  x  |   MB   |               |                |
-*26 min expected*
+*32 min (26 min expected)*
 
 ### 15.sep tirsdag 2026, "rydd i kassa"
  - 2026-09-15 12-23-34.mp4
